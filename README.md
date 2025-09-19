@@ -206,10 +206,5 @@ Sinta-se à vontade para contribuir com melhorias:
 4. Push para a branch
 5. Abra um Pull Request
 
-## 📧 Contato
 
-Para dúvidas ou sugestões, entre em contato através do GitHub.
-
----
-
-**Desenvolvido com ❤️ usando PHP, MySQL e Docker**
+https://hub.docker.com/repository/docker/vn3ves/aulatopicosavacados05-09/general
